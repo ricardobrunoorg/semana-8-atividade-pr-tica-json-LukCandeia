@@ -5,8 +5,8 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Lukas Nathan Matos Candeia
+- Matricula: 925157
 
 ## Prints do console do navegador
 
